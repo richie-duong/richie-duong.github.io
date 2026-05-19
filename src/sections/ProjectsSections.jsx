@@ -18,7 +18,7 @@ const projects = [
     technologies: ["React", "Node.js", "MongoDB", "Firebase"],
 
     github: "https://github.com/richie-duong/Task_Basket.git",
-    demo: "#",
+    demo: "https://task-basket.onrender.com/",
 
     image: taskbasket
   },
