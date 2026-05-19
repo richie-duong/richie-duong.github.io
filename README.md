@@ -1,16 +1,156 @@
-# React + Vite
+# Richard Duong Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website built with React and Vite to showcase my work in full-stack web development and graphic design. This project highlights my technical skills, featured projects, design work, and professional background while serving as a central hub for employers, recruiters, and collaborators to connect with me.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 https://richie-duong.github.io
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# About The Project
 
-## Expanding the ESLint configuration
+This portfolio was designed and developed to represent both my technical and creative skill sets. The website features a modern responsive UI, animated components, project showcases, design galleries, and a functional contact form integrated with EmailJS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal of this project was to create a professional online presence while strengthening my experience with frontend development, responsive design, deployment workflows, and UI/UX principles.
+
+I am currently attending Algonquin College in the Web Development & Internet Applications program, with an expected graduation date of May 2027.
+
+---
+
+# Features
+
+- Responsive modern UI
+- Full-screen hero section
+- About Me section
+- Technical skills showcase
+- Featured projects section
+- Graphic design showcase gallery
+- Functional contact form using EmailJS
+- Mobile responsive navigation menu
+- Smooth scrolling navigation
+- GitHub Pages deployment
+- Custom favicon and branding
+
+---
+
+# Built With
+
+## Frontend
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+## Libraries & Tools
+- Framer Motion
+- React Icons
+- EmailJS
+
+## Deployment
+- GitHub Pages
+- gh-pages
+
+---
+
+# Skills Demonstrated
+
+This project helped strengthen and demonstrate my skills in:
+
+- React component architecture
+- Responsive web design
+- UI/UX design principles
+- Frontend development
+- State management using React hooks
+- Form handling and validation
+- Third-party API/service integration
+- Git and GitHub workflow
+- GitHub Pages deployment
+- Modern web animations
+- Portfolio and branding design
+
+---
+
+# Project Structure
+
+```bash
+src/
+│
+├── assets/
+├── components/
+├── sections/
+├── pages/
+│
+public/
+```
+
+---
+
+# Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/richie-duong/richie-duong.github.io.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd richie-duong.github.io
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+---
+
+# Future Improvements
+
+Planned future updates include:
+
+- Additional project case studies
+- Enhanced animations and transitions
+- Dark/light theme toggle
+- Expanded graphic design showcase
+- Resume download integration
+- Improved accessibility features
+
+---
+
+# Contact
+
+## Richard Duong
+
+- GitHub: https://github.com/richie-duong
+- LinkedIn: https://www.linkedin.com/in/richard-duong-b371271a2/
+- Portfolio: https://richie-duong.github.io
+
+---
+
+# License
+
+This project is open source and available under the MIT License.
